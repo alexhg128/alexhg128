@@ -1,8 +1,8 @@
 # About me 💫
 
-✅ Currently open to Backend/FrontEnd/Mobile Software Engineering roles
-✅ Current Master's Student (Applied AI)
-✅ Data Engineer
+- ✅ Currently open to Backend/FrontEnd/Mobile Software Engineering roles
+- ✅ Current Master's Student (Applied AI)
+- ✅ Data Engineer
 
 <!-- ### Hi there 👋
 -->
