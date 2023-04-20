@@ -1,4 +1,11 @@
-### Hi there 👋
+# About me 💫
+
+✅ Currently open to Backend/FrontEnd/Mobile Software Engineering roles
+✅ Current Master's Student (Applied AI)
+✅ Data Engineer
+
+<!-- ### Hi there 👋
+-->
 
 <!--
 **alexhg128/alexhg128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
