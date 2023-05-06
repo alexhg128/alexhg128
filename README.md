@@ -1,8 +1,4 @@
-# About me 💫
-
-- ✅ Currently open to Backend/FrontEnd/Mobile Software Engineering roles
-- ✅ Current Master's Student (Applied AI)
-- ✅ Data Engineer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&width=435&lines=Hello+%F0%9F%91%8B...;I+am+Alex%2C+nice+to+meet+you!;I+am+a+Software+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Welcome+to+my+GitHub+profile!+%E2%9C%A8)](https://git.io/typing-svg)
 
 <!-- ### Hi there 👋
 -->
